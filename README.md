@@ -1,6 +1,6 @@
 # PyRora
 
-A Python project for analyzing and visualizing geomagnetic Kp index data. PyRora downloads definitive Kp index data from the GFZ Potsdam repository and provides tools for analyzing geomagnetic activity trends, strong events, and monthly statistics.
+A Python school project for analyzing and visualizing geomagnetic Kp index data. PyRora downloads definitive Kp index data from the GFZ Potsdam repository and provides tools for analyzing geomagnetic activity trends, strong events, and monthly statistics.
 
 ## Overview
 
